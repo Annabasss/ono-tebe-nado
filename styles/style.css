@@ -35,14 +35,14 @@
   white-space: nowrap;
 }
 .header__address {
+  font-size: 18px;
+  font-style: normal;
   display: flex;
   flex-direction: column;
   justify-self: end;
   margin-right: 28px;
   align-self: end;
   line-height: 24.3px;
-  font-size: 18px;
-  font-style: normal;
   text-underline-position: under;
 }
 
@@ -80,13 +80,13 @@
   align-items: center;
 }
 .cover__description-text {
+  font-size: 22px;
+  word-spacing: 17.5px;
   margin-right: 79px;
   display: flex;
   justify-content: flex-end;
   align-items: center;
-  font-size: 22px;
   text-transform: uppercase;
-  word-spacing: 17.5px;
 }
 .bet-button {
   width: 258px;
