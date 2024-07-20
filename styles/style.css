@@ -28,7 +28,7 @@
 .header__logo-image {
   width: 100%;
 }
-.header__link {
+.menu__link_list {
   font-size: 18px;
   white-space: nowrap;
 }
